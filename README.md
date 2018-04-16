@@ -1,2 +1,4 @@
 # hello-world
-Comenzando en la comunidad / Just the begginig
+Comenzando en la comunidad / Just begginig
+
+1b.
